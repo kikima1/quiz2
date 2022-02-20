@@ -1,0 +1,86 @@
+#entire {
+padding: 40px;
+width: 600px;
+text-align: center;
+font-family: sans-serif;
+font-size: 18pt;
+font-weight:600;
+background-color: lightblue;
+border-bottom: 1px solid lightgrey;
+
+
+
+}
+
+#score
+{
+  font-size: 18pt;
+  text-align: left;
+  background-color: lightblue;
+  border-bottom: 1px solid lightgrey;
+  //font-weight: 400;
+  
+}
+/*
+#answers
+{
+  //width:600px;
+  margin-left: 300px;
+  text-align: center;
+  background-color: lightblue;
+  border-bottom: 1px solid lightgrey;
+  
+  
+}
+#question
+{
+  //width:600px;
+  margin-left: 300px;
+  //text-align: center;
+  background-color: lightblue;
+  border-bottom: 1px solid lightgrey;
+  
+  
+}
+/*h1
+{
+
+  background-color: lightblue;
+  border-bottom: 1px solid lightgrey;
+  
+  
+}
+#counter
+{
+  font-weight: 400;
+  background-color: lightblue;
+  border-bottom: 1px solid lightgrey;
+  
+  
+}*/
+h3
+{
+  
+  text-align: center;
+  background-color: lightblue;
+  border-bottom: 1px solid lightgrey;
+  
+  
+}
+/*div
+{
+width:600px;
+  margin-left: 300px;
+  text-align: left;
+  background-color: lightblue;
+  border-bottom: 1px solid lightgrey;
+  
+  
+}*/
+h4{
+  
+  
+  text-align: left;
+  background-color: lightblue;
+  border-bottom: 1px solid lightgrey;
+  }
