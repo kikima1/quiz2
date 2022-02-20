@@ -50,7 +50,6 @@ function showQuestion() {
  button.text( q_a_data[turn].answers[index] ); 
  $('#answers').append( button );
  
-
   button.click(
     
     function() {
@@ -99,13 +98,12 @@ function nextQuestion() {
   
   }
   else {
-    $("#try_again").hide(2000);
+    $("body").css("background-color","lightgreen");
+    $("#try_again").hide(225);
+    $('#answers').text("PIANO!");
     $("#knowledge").text("Woohoo! Well done!");
 
-    $('#answers').text("PIANO!");
-
-
-
+  
 };
 }
 

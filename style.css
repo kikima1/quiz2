@@ -1,86 +1,40 @@
-#entire {
-padding: 40px;
-width: 600px;
+body {
+
+width: auto;
 text-align: center;
 font-family: sans-serif;
 font-size: 18pt;
 font-weight:600;
 background-color: lightblue;
-border-bottom: 1px solid lightgrey;
+
 
 
 
 }
 
-#score
+div, #score, #questions, #counter, h3
 {
+  width: auto;
   font-size: 18pt;
-  text-align: left;
-  background-color: lightblue;
-  border-bottom: 1px solid lightgrey;
-  //font-weight: 400;
-  
-}
-/*
-#answers
-{
-  //width:600px;
-  margin-left: 300px;
   text-align: center;
-  background-color: lightblue;
-  border-bottom: 1px solid lightgrey;
+  background-color: white;
+  padding: 5px;
+  border: 5px solid darkgrey;
+  margin: 30px;
   
   
 }
-#question
-{
-  //width:600px;
-  margin-left: 300px;
-  //text-align: center;
-  background-color: lightblue;
-  border-bottom: 1px solid lightgrey;
-  
-  
-}
-/*h1
-{
 
-  background-color: lightblue;
-  border-bottom: 1px solid lightgrey;
-  
-  
-}
-#counter
-{
-  font-weight: 400;
-  background-color: lightblue;
-  border-bottom: 1px solid lightgrey;
-  
-  
-}*/
-h3
+#try_again
 {
   
   text-align: center;
   background-color: lightblue;
-  border-bottom: 1px solid lightgrey;
-  
+  border: none;
+ 
   
 }
-/*div
-{
-width:600px;
-  margin-left: 300px;
-  text-align: left;
-  background-color: lightblue;
-  border-bottom: 1px solid lightgrey;
-  
-  
-}*/
-h4{
-  
-  
-  text-align: left;
-  background-color: lightblue;
-  border-bottom: 1px solid lightgrey;
-  }
+#score, counter,h3 {
+  text-align:left;
+  padding-left:10%;
+}
